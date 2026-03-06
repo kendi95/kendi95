@@ -1,8 +1,6 @@
 # Hi my name is Alisson Kendi Kohatsu 👋
 
 - 🔭 I’m currently working on Javascript, Typescript, React, Node.JS
-- 🌱 I’m currently learning some animations of React Native & Expo
-- 📫 To reach me just send to my personal e-mail: kohatsukendi@gmail.com
 
 <div>
   <a href="https://github.com/kendi95">
