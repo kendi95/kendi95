@@ -1,10 +1,10 @@
 # Hi my name is Alisson Kendi Kohatsu 👋
 
-- 🔭 I’m currently working on Javascript, Typescript, React, Node.JS
+- 🔭 I’m currently working with Nextjs 16, Tailwindcss, React-Query, React Hook Form, etc...
 
 <div>
-  <a href="https://github.com/kendi95">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kendi95&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/kendi95"></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kendi95&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kendi95&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
